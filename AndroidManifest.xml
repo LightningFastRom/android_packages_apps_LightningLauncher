@@ -54,7 +54,7 @@
             android:excludeFromRecents="true"
             android:launchMode="singleTask"
             android:resumeWhilePausing="true"
-            android:screenOrientation="nosensor"
+            android:screenOrientation="sensor"
             android:stateNotNeeded="true"
             android:taskAffinity=""
             android:theme="@style/LauncherTheme"
